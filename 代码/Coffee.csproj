@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{82B5E4F3-4AC5-4C14-93D6-B46CB8DABBFA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>index</RootNamespace>
+    <AssemblyName>咖啡厅收银管理系统</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="accession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accession.Designer.cs">
+      <DependentUpon>accession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="diandan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diandan.Designer.cs">
+      <DependentUpon>diandan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Enter.Designer.cs">
+      <DependentUpon>Enter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="findSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="findSales.Designer.cs">
+      <DependentUpon>findSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatepsd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatepsd.Designer.cs">
+      <DependentUpon>updatepsd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="help.Designer.cs">
+      <DependentUpon>help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insert.Designer.cs">
+      <DependentUpon>insert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertadmin.Designer.cs">
+      <DependentUpon>insertadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertvip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertvip.Designer.cs">
+      <DependentUpon>insertvip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="findwaiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="findwaiter.Designer.cs">
+      <DependentUpon>findwaiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Book.Designer.cs">
+      <DependentUpon>Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateTime.cs" />
+    <Compile Include="updatewaiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatewaiter.Designer.cs">
+      <DependentUpon>updatewaiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertwaiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertwaiter.Designer.cs">
+      <DependentUpon>insertwaiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jiezhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jiezhang.Designer.cs">
+      <DependentUpon>jiezhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrom.Designer.cs">
+      <DependentUpon>MainFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="password.Designer.cs">
+      <DependentUpon>password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="accession.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>accession.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diandan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>diandan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Enter.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Enter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="findSales.resx">
+      <DependentUpon>findSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatepsd.resx">
+      <DependentUpon>updatepsd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="help.resx">
+      <DependentUpon>help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insert.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>insert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertadmin.resx">
+      <DependentUpon>insertadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertvip.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>insertvip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="findwaiter.resx">
+      <DependentUpon>findwaiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Book.resx">
+      <DependentUpon>Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatewaiter.resx">
+      <DependentUpon>updatewaiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertwaiter.resx">
+      <DependentUpon>insertwaiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jiezhang.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>jiezhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrom.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="password.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vip.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vipchongzhi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vipchongzhi.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UserTable.cs" />
+    <Compile Include="vip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vip.Designer.cs">
+      <DependentUpon>vip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vipchongzhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vipchongzhi.Designer.cs">
+      <DependentUpon>vipchongzhi.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

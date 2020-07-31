@@ -1,0 +1,16 @@
+obj\Debug\index.exe
+obj\Debug\index.pdb
+bin\Debug\index.exe
+bin\Debug\index.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\index.accession.resources
+obj\Debug\index.diandan.resources
+obj\Debug\index.Enter.resources
+obj\Debug\index.jiezhang.resources
+obj\Debug\index.MainFrom.resources
+obj\Debug\index.Properties.Resources.resources
+obj\Debug\Coffee.csproj.GenerateResource.Cache
+obj\Debug\index.insert.resources
+obj\Debug\index.insertvip.resources
+obj\Debug\index.vip.resources
+obj\Debug\index.vipchongzhi.resources

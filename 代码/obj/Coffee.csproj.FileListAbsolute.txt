@@ -1,0 +1,60 @@
+G:\C#\CoffeeHouse\index\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\CoffeeHouse\index\obj\Debug\index.accession.resources
+G:\C#\CoffeeHouse\index\obj\Debug\index.diandan.resources
+G:\C#\CoffeeHouse\index\obj\Debug\index.jiezhang.resources
+G:\C#\CoffeeHouse\index\obj\Debug\index.MainFrom.resources
+G:\C#\CoffeeHouse\index\obj\Debug\index.Properties.Resources.resources
+G:\C#\CoffeeHouse\index\obj\Debug\Coffee.csproj.GenerateResource.Cache
+G:\C#\CoffeeHouse\index\bin\Debug\index.exe
+G:\C#\CoffeeHouse\index\bin\Debug\index.pdb
+G:\C#\CoffeeHouse\index\obj\Debug\index.exe
+G:\C#\CoffeeHouse\index\obj\Debug\index.pdb
+G:\C#\CoffeeHouse\index\obj\Debug\index.Enter.resources
+G:\C#\CoffeeHouse\index\obj\Debug\index.new.resources
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.exe
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.pdb
+C:\Users\toshiba\Desktop\CoffeeHouse\index\bin\Debug\index.exe
+C:\Users\toshiba\Desktop\CoffeeHouse\index\bin\Debug\index.pdb
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.accession.resources
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.diandan.resources
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.Enter.resources
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.jiezhang.resources
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.MainFrom.resources
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.new.resources
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.Properties.Resources.resources
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\Coffee.csproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\CoffeeHouse\index\obj\Debug\index.insert.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.exe
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.pdb
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.accession.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.diandan.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.Enter.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.insert.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.jiezhang.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.MainFrom.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.Properties.Resources.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\Coffee.csproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\dd\index\bin\Debug\index.exe
+C:\Users\toshiba\Desktop\dd\index\bin\Debug\index.pdb
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.exe
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.pdb
+C:\Documents and Settings\student\桌面\dd\index\bin\Debug\index.exe
+C:\Documents and Settings\student\桌面\dd\index\bin\Debug\index.pdb
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.accession.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.diandan.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.Enter.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.insert.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.insertvip.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.jiezhang.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.MainFrom.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.Properties.Resources.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.vip.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\index.vipchongzhi.resources
+C:\Documents and Settings\student\桌面\dd\index\obj\Debug\Coffee.csproj.GenerateResource.Cache
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.insertvip.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.vip.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.vipchongzhi.resources
+C:\Users\toshiba\Desktop\dd\index\obj\Debug\index.password.resources
